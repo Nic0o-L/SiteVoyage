@@ -1,2 +1,2 @@
 # SiteVoyage
-Site produit pendant une formation web en simple HTML/CSS
+Site statique produit pour apprendre le HTML/CSS pendant une formation.
